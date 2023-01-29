@@ -1,7 +1,6 @@
 package logger
 
 import (
-	"hamkorbank/pkg/logger"
 	"testing"
 )
 
